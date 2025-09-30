@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# dotenv environment variables
+.env
+frontend/.env
+backend/.env
+
+# Logs
+*.log
+access.db
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Build outputs
+frontend/build/
+backend/dist/
+
+# Optional: temporary files
+*.tmp
+*.swp
