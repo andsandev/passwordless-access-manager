@@ -29,3 +29,8 @@ Proyecto full-stack Web3 para portfolio, que permite **acceso passwordless** med
 ## 🔹 Instalación
 
 ### 1. Backend (Raspberry Pi / Node.js)
+
+```bash
+cd backend
+npm install
+```	
